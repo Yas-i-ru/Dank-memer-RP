@@ -8,3 +8,4 @@ Latest release:- https://github.com/yasirukavishka/Dank-memer-RP/blob/master/Dan
 
  The content inside the `.zip` needs to be in the same directory. 
  It would not function if the `icon.ico` , `data.ini` files are absent.
+ Currently no known issues. How ever various errors might occur between devices.
