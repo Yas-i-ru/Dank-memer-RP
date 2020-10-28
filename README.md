@@ -9,15 +9,3 @@ Latest release:- https://github.com/yasirukavishka/Dank-memer-RP/blob/master/Dan
  The content inside the `.zip` needs to be in the same directory. 
  It would not function if the `icon.ico` , `data.ini` files are absent.
  Currently no known issues. How ever various errors might occur between devices.
- The list of the image variables,
- ```fix
-apple        rare_fish
-duck         lifesaver
-banknote     alcohol
-apple        pepetrophy
-cheese       fakeid
-landmine     padlock
-tidepod      cellphone
-laptop       fish
-exotic_fish  blob
-```
