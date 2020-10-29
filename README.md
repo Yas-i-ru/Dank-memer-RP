@@ -9,10 +9,11 @@ Current build is compatible with Windows 7 , Windows 8 , Windows 10. The `.exe` 
 4. Save the `data.ini` before closing the editor
 5. Run the `.exe` file
 
-> **Support server :** https://discord.gg/zNJv2Uv
 
+> **Support server :** https://discord.gg/zNJv2Uv
+>
 > **Latest release v1.1.0 :** https://github.com/yasirukavishka/Dank-memer-RP/blob/master/releases/windows/v1.1.0.zip
-  
+>
 > **Other builds :** https://github.com/yasirukavishka/Dank-memer-RP/blob/master/releases/
- 
+>
 > **Asset identifiers :** https://github.com/yasirukavishka/Dank-memer-RP/blob/master/ASSESTS.md
