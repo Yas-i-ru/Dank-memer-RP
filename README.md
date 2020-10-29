@@ -17,5 +17,3 @@ Current build is compatible with Windows 7 , Windows 8 , Windows 10. The `.exe` 
 > **Other builds :** https://github.com/yasirukavishka/Dank-memer-RP/blob/master/releases/
  
 > **Asset identifiers :** https://github.com/yasirukavishka/Dank-memer-RP/blob/master/ASSESTS.md
-
-![Dank memer RP](C:\Users\Yas_!_ru\Pictures\Screenshot 2020-10-29 100925.png)
