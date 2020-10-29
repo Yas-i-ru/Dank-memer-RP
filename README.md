@@ -1,7 +1,8 @@
 # Dank memer RP
 **Dank memer custom rich presence**
 
-**Read this document carefully** before use. 
+**Read this document carefully before use** 
+Setting up,
 
 1. Download the zip file unzip the content into one folder 
 2. Edit the `data.ini` to your need
@@ -12,4 +13,3 @@ The `.exe` would take some time to properly load up. The content inside the `.zi
 **Latest release:-** https://github.com/yasirukavishka/Dank-memer-RP/blob/master/Dank-memer-RP.zip
 
 **Additional info on icons:-** https://github.com/yasirukavishka/Dank-memer-RP/blob/master/icon-variables.md
-
