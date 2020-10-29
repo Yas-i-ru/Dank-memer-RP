@@ -13,8 +13,8 @@ The `.exe` would take some time to properly load up and all content inside the `
 
 > **Support server :** https://discord.gg/zNJv2Uv
 >
-> **Latest release v1.1.0 :** https://github.com/yasirukavishka/Dank-memer-RP/blob/master/releases/windows/v1.1.0.zip
+> **Latest release v1.1.0 :** https://github.com/yasirukavishka/Dank-memer-RP/releases/tag/v1.1.2
 >
-> **Other builds :** https://github.com/yasirukavishka/Dank-memer-RP/blob/master/releases/
+> **Other builds :** https://github.com/yasirukavishka/Dank-memer-RP/releases/
 >
 > **Asset identifiers :** https://github.com/yasirukavishka/Dank-memer-RP/blob/master/ASSESTS.md
