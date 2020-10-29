@@ -27,12 +27,12 @@ def main():
         small_text  = tooltip,
     )
     print("Discord RPC updated!")
-    time.sleep(15)
+    time.sleep(15) 
 
 class SystemTrayIcon(QtWidgets.QSystemTrayIcon):
     def __init__(self , icon , parent=None):
         QtWidgets.QSystemTrayIcon.__init__(self , icon , parent)
-        self.setToolTip(f'Dank memer')
+        self.setToolTip(f'Dank memer RP')
         menu = QtWidgets.QMenu(parent)
 
         exit_ = menu.addAction("Exit")
