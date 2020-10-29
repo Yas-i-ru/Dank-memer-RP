@@ -1,4 +1,6 @@
- The list of the image variables,
+ The list of the image variables, use these variable names in the `data.ini` as `image = [variable name]`
+ 
+ Example : `image = banknote`
  ```fix
 apple        rare_fish
 duck         lifesaver

@@ -1,11 +1,13 @@
 # Dank memer RP
- Dank memer custom rich presence. Read this document carefully before use.
+**Dank memer custom rich presence read this document carefully before use** 
 
-Download the zip file unzip the content into a folder and edit the `data.ini` to your need.
-Latest release:- https://github.com/yasirukavishka/Dank-memer-RP/blob/master/Dank-memer-RP.zip
+Setting up,
+1. Download the zip file unzip the content into one folder 
+2. Edit the `data.ini` to your need
+3. Run the `.exe`
 
- Download the zip file unzip the content into a folder and edit the `data.ini` to your need.
+The `.exe` would take some time to properly load up and all content inside the `.zip` needs to be in the same directory which the `.exe` is placed.  It would not function as intended if the `icon.ico` , `data.ini` files are missing.  Currently no known issues, How ever various errors might occur between devices. Make sure you submit a pull request if anything goes wrong.
 
- The content inside the `.zip` needs to be in the same directory. 
- It would not function if the `icon.ico` , `data.ini` files are absent.
- Currently no known issues. How ever various errors might occur between devices.
+  **Latest release:-** v1.1.0 https://github.com/yasirukavishka/Dank-memer-RP/blob/master/Dank-memer-RP.zip
+ 
+  **Additional info on icons:-** https://github.com/yasirukavishka/Dank-memer-RP/blob/master/icon-variables.md
