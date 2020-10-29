@@ -10,6 +10,8 @@ Setting up rich presence,
 
 Current build is compatible with Windows 7 , Windows 8 , Windows 10. The `.exe` would take some time to properly load up and all content inside the `.zip` needs to be in the same directory which the `.exe` is placed.  It would not function as intended if the `icon.ico` , `data.ini` files are missing.  Currently no known issues, How ever various errors might occur between devices. Make sure you submit a pull request if anything goes wrong.
 
-  **Latest release:-** v1.1.0 https://github.com/yasirukavishka/Dank-memer-RP/blob/master/v1.1.0.zip
+  **Latest release:-** v1.1.0 https://github.com/yasirukavishka/Dank-memer-RP/blob/master/releases/windows/v1.1.0.zip
+  
+  **Other builds:-** https://github.com/yasirukavishka/Dank-memer-RP/blob/master/releases/
  
   **Additional info on icons:-** https://github.com/yasirukavishka/Dank-memer-RP/blob/master/icon-variables.md
