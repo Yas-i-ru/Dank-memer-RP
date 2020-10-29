@@ -1,7 +1,7 @@
 # Dank memer RP
 **Dank memer custom rich presence read this document carefully before use** 
 
-Setting up,
+Setting up rich presence,
 1. Download the latest release
 2. Unzip the content into one folder
 3. Edit the `data.ini` to your need
