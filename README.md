@@ -1,7 +1,5 @@
 # Dank memer RP
-**Dank memer custom rich presence**
-
-**Read this document carefully before use** 
+**Dank memer custom rich presence read this document carefully before use** 
 
 Setting up,
 1. Download the zip file unzip the content into one folder 
