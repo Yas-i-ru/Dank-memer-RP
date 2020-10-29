@@ -13,7 +13,7 @@ The `.exe` would take some time to properly load up and all content inside the `
 
 > **Support server :** https://discord.gg/zNJv2Uv
 >
-> **Latest release v1.1.0 :** https://github.com/yasirukavishka/Dank-memer-RP/releases/tag/v1.1.2
+> **Latest release v1.1.2 :** https://github.com/yasirukavishka/Dank-memer-RP/releases/tag/v1.1.2
 >
 > **Other builds :** https://github.com/yasirukavishka/Dank-memer-RP/releases/
 >
