@@ -1,4 +1,4 @@
-[Dank memer RP](/source-code/icon.ico)# Dank memer RP
+![Dank memer RP](/source-code/icon.ico)# Dank memer RP
 **Dank memer custom rich presence read this document carefully before use** 
 
 Setting up rich presence,
