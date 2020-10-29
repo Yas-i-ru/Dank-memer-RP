@@ -35,11 +35,6 @@ class SystemTrayIcon(QtWidgets.QSystemTrayIcon):
         self.setToolTip(f'Dank memer')
         menu = QtWidgets.QMenu(parent)
 
-        pause_ = menu.addAction("Pause")
-        pause_.triggered.connect(
-            RPC.clear()
-            )
-
         exit_ = menu.addAction("Exit")
         exit_.triggered.connect(
             lambda: sys.exit()
@@ -56,5 +51,5 @@ def tray():
     print("System tray loaded successfully!")
 
 while True:
-    main() 
+    main()
     tray()
