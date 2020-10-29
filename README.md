@@ -1,4 +1,4 @@
-![Dank memer RP](/source-code/icon.ico)# Dank memer RP
+# Dank memer RP
 **Dank memer custom rich presence read this document carefully before use** 
 
 Setting up rich presence,
@@ -17,3 +17,5 @@ Current build is compatible with Windows 7 , Windows 8 , Windows 10. The `.exe` 
 > **Other builds :** https://github.com/yasirukavishka/Dank-memer-RP/blob/master/releases/
  
 > **Asset identifiers :** https://github.com/yasirukavishka/Dank-memer-RP/blob/master/ASSESTS.md
+
+![Dank memer RP](https://drive.google.com/file/d/1JJNBujT8ZYpHicUOPScvp9R8HAirgoq9/view?usp=sharing)
