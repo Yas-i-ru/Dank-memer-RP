@@ -19,7 +19,7 @@ class SystemTrayIcon(QtWidgets.QSystemTrayIcon):
         refresh_RPC = menu.addAction("Refresh")
         refresh_RPC.triggered.connect(self.RP_refresh)
         refresh_RPC.setIcon(QtGui.QIcon("./resources/refresh.svg"))
-
+        
         menu.addSeparator()
 
         configure = menu.addAction("Configure")
@@ -62,7 +62,7 @@ class SystemTrayIcon(QtWidgets.QSystemTrayIcon):
 
     def RP_refresh(self):
         self.setToolTip(f'Dank memer : Refreshing')
-        time.sleep(10)
+        time.sleep(5)
         self.RP_disconnect()
         time.sleep(5)
         self.RP_connect()
