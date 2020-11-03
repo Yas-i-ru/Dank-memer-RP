@@ -105,8 +105,6 @@ Releases  : https://github.com/yasirukavishka/Dank-memer-RP/releases/
         info.close()
         os.system('notepad "./info.txt"')
 
-
-
 def main():
     app = QtWidgets.QApplication(sys.argv)
     w = QtWidgets.QWidget()
